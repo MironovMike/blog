@@ -1,0 +1,4 @@
+[submodule "mironovmikeblog/public"]
+	path = mironovmikeblog/public
+	url = https://github.com/MironovMike/mironovmike.github.io
+	branch = main
