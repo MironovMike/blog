@@ -38,5 +38,5 @@ thumbnail= "images/landscape.jpg"
 +++
 ```
 
-14.04.22
 
+14.04.22
