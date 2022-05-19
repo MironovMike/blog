@@ -1,11 +1,11 @@
 [[main]]
-name = "Blog"
+name = "Блог"
 identifier = "blog"
 weight = 100
 url = "/"
 
 [[main]]
-name = "About"
+name = "Обо мне"
 identifier = "about"
 weight = 200
 url = "/about/"
