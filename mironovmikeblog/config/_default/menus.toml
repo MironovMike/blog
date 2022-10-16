@@ -1,5 +1,5 @@
-[[main]]
-name = "Обо мне"
-identifier = "about"
-weight = 200
-url = "/about/"
+# [[main]]
+# name = "Обо мне"
+# identifier = "about"
+# weight = 200
+# url = "/about/"
