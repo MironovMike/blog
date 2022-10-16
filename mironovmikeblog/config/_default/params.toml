@@ -68,7 +68,12 @@ url = "mailto:mail@mironovmike.ru"
 
 
 [[socialIcons]]
-icon = "fa-solid fa-arrow-up-right-from-square"
+icon = "fa-solid fa-link"
 title = "Bitrix"
 url = "https://dev.1c-bitrix.ru/learning/resume.php?ID=41299847-137941"
+
+[[socialIcons]]
+icon = "fa-brands fa-github"
+title = "Github"
+url = "https://github.com/MironovMike"
 
