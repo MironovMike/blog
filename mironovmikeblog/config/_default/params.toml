@@ -66,7 +66,6 @@ icon = "fa-solid fa-at"
 title = "E-mail"
 url = "mailto:mail@mironovmike.ru"
 
-
 [[socialIcons]]
 icon = "fa-solid fa-link"
 title = "Bitrix"

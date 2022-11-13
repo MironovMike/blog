@@ -3,9 +3,3 @@ name = "Обо мне"
 identifier = "blog"
 weight = 100
 url = "/"
-#
-# [[main]]
-# name = "Обо мне"
-# identifier = "about"
-# weight = 200
-# url = "/about/"
