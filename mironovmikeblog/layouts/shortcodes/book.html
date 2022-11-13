@@ -1,0 +1,12 @@
+<div class="book">
+    <div class="image">
+        <img src='/content/books/{{ .Get "src" }}'/>
+    </div>
+    <div class="description">
+        <span class="title"><b>{{ .Get "title"}}</b> <i>{{ .Get "year"}} г. {{ .Get "author"}}</i></span>
+        <span class="--fz-small">{{ .Get "description"}}</span>
+        {{ with .Get "opinion" }}
+        <span class="--fz-small"><b>Личное мнение о книге:</b></br> {{ . }}</span>
+        {{ end }}
+    </div>
+</div>

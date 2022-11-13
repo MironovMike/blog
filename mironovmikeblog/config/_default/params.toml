@@ -1,12 +1,12 @@
 title = "Mironov Mike"
 author = "Mironov Mike"
 copyright = "Mironov Mike 2022"
-description = "Bitrix24 developer"
+description = "Bitrix24 / Java developer"
 profilePicture = "main_photo.jpg"
 keywords = "bitrx bitrix24 developer blog"
 favicon = "favicons/"
 displayMode = "light"
-contentratio = "0.8"
+contentratio = "0.9"
 disableThemeSwitcher = true
 # example ["css/custom.css"]
 customCss = ["css/syntax.css", "css/custom_code.css"]

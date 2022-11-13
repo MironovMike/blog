@@ -13,3 +13,36 @@
     background-color: #f3f4f4;
     border: 0;
 }
+
+/*Books*/
+.books .book {
+    margin: 32px 0;
+    display: flex;
+}
+
+.books .book .image {
+    flex: 0 0 150px;
+}
+
+.books .book img {
+    border: 1px solid #ededed;
+}
+
+.books .book .description {
+    display: flex;
+    padding: 0 0 0 30px;
+    flex-direction: column;
+}
+
+.books .book .description span {
+    margin: 5px 0;
+}
+/*END Books*/
+
+.--fz-small {
+    font-size: 10px;
+}
+
+.--transparent {
+    opacity: .5;
+}
