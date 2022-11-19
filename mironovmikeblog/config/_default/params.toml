@@ -62,6 +62,16 @@ title = "Telegram"
 url = "https://t.me/mironovmike/"
 
 [[socialIcons]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedId"
+url = "https://www.linkedin.com/in/mikhail-mironov-840b4621a/"
+
+[[socialIcons]]
+icon = "fa-brands fa-github"
+title = "Github"
+url = "https://github.com/MironovMike"
+
+[[socialIcons]]
 icon = "fa-solid fa-at"
 title = "E-mail"
 url = "mailto:mail@mironovmike.ru"
@@ -70,9 +80,3 @@ url = "mailto:mail@mironovmike.ru"
 icon = "fa-solid fa-link"
 title = "Bitrix"
 url = "https://dev.1c-bitrix.ru/learning/resume.php?ID=41299847-137941"
-
-[[socialIcons]]
-icon = "fa-brands fa-github"
-title = "Github"
-url = "https://github.com/MironovMike"
-
