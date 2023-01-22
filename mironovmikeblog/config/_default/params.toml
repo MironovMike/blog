@@ -6,7 +6,7 @@ profilePicture = "main_photo.jpg"
 keywords = "bitrx bitrix24 developer blog"
 favicon = "favicons/"
 displayMode = "light"
-contentratio = "0.9"
+contentratio = "0.65"
 disableThemeSwitcher = true
 # example ["css/custom.css"]
 customCss = ["css/syntax.css", "css/custom_code.css"]
